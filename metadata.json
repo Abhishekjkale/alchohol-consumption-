@@ -1,0 +1,6 @@
+{
+  "name": "Global Alcohol Consumption & Generational Decline Analysis",
+  "description": "Comprehensive data science blueprint, econometric cohort analysis, and interactive dashboard examining global alcohol consumption trends and youth sobriety drivers (2000–Present).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
